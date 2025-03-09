@@ -3,4 +3,5 @@
 >
 > —— 泽田弘树 Hiroki Sawada
 
-- It is a 'Technology Tree' that records my journey of learning programming.
+- It is a **'Technology Tree'** that records my journey of learning programming.
+
